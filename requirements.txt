@@ -1,0 +1,9 @@
+flask
+flask-cors
+face_recognition
+opencv-python
+numpy
+Pillow
+transformers
+faiss-cpu  # or faiss-gpu, depending on your setup
+torch
