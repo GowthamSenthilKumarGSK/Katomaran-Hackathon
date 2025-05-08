@@ -84,8 +84,8 @@ The application should now be running at `http://localhost:3000`.
 
 Feel free to fork this repository and contribute to improving the project. You can submit issues or pull requests for suggestions, bug fixes, or enhancements.
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**This project is a part of a hackathon run by [https://katomaran.com](https://katomaran.com)**
 
 
